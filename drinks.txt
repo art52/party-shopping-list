@@ -1,2 +1,4 @@
 beer
 wine
+juice
+gin
